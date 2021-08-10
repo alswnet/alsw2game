@@ -30,7 +30,7 @@
     "lint-courses-fix": "./node_modules/.bin/eslint ./Courses/ --fix",
     "yt-actualizar": "npm run yt-generar-descripcion && npm run yt-actualizar-descripcion",
     "yt-generar-descripcion": "node ./_scripts/generate-youtube-descriptions.js",
-    "yt-actualizar-descripcion": "tooltube -d -r --folder actualizado --canal alswnet",
+    "yt-actualizar-descripcion": "tooltube -d -r --folder actualizado --canal alsw2game",
     "tags-generate": "node ./_scripts/generate-tags.js"
   },
   "repository": {
